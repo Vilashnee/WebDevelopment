@@ -92,8 +92,8 @@ h1{
 .section3 .container{
   display: flex;
   justify-content: space-between;
-  margin-right: 300px;
-  margin-left: 300px;
+  margin-right: 250px;
+  margin-left: 250px;
   flex-wrap: wrap;
   gap:20px;
 }
